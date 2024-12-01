@@ -6,7 +6,7 @@
 
 The included tools are:
   - **Chisel v1.10.1**
-  - **Ligolo-ng v0.7.2**
+  - **Ligolo-ng v0.5.1 - amd64**
   - **Plink.exe**
 
 
